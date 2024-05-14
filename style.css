@@ -1,0 +1,11 @@
+.container {
+  display: flex;
+  height: 300px;
+  width: 300px;
+  border: 2px solid black;
+  gap: 10px;
+  justify-content: space-between;
+}
+.item {
+  background-color: blue;
+}
